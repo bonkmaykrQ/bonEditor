@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# bonEditor
+A Binary JSON file editor, powered by Bunny83's SimpleJSON API. This project was abandoned in early to mid 2019, but I plan to revisit it.
 
-You can use the [editor on GitHub](https://github.com/fluffapparition/bonEditor/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This was an internal tool I was developing to help me write custom save files, for testing features of my game Robotic Rogue, which has ceased development as well. It uses Windows Forms to draw the window, but not WPF (hence no hardware acceleration or fancy stuff), and is written and compiled entirely in C#. You must use Visual Studio 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have since switched to Ubuntu and Arch Linux as my main choices for operating systems, as I found Windows no longer suitable, so considering the above circumstances, I can't promise the code in this repo will be of any use to me unless I convert it to something closer to my liking. I also have more experience with WPF now, which I was using to write a launcher for the game, so I honestly don't feel like using Windows Forms on it's own would be something I'm interested in.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fluffapparition/bonEditor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Anyway, no, this program is not functional. It starts and compiles last time I checked, but I got stuck mid development because the SimpleJSON library didn't have any way to grab names of objects. You can stitch it together to make it work, though. That's on you. Good luck lol.
