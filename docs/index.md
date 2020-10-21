@@ -1,6 +1,8 @@
 # bonEditor
 #### [← Back to Homepage](https://fluffapparition.github.io/)
 
+![](https://files.gamebanana.com/bitpit/bedit-newlogo.png)
+
 A Binary JSON file editor, powered by Bunny83's SimpleJSON API. This project was abandoned in early to mid 2019, but I plan to revisit it.
 
 This was an internal tool I was developing to help me write custom save files, for testing features of my game Robotic Rogue, which has ceased development as well. It uses Windows Forms to draw the window, but not WPF (hence no hardware acceleration or fancy stuff), and is written and compiled entirely in C#. You must use Visual Studio 2017.
