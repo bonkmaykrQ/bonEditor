@@ -1,7 +1,7 @@
 # bonEditor
 #### [← Back to Homepage](https://fluffapparition.github.io/)
 
-![](https://files.gamebanana.com/bitpit/bedit-newlogo.png)
+![](https://files.gamebanana.com/bitpit/bedit-newlogo-soontm.png)
 
 A Binary JSON file editor, powered by Bunny83's SimpleJSON API. This project was abandoned in early to mid 2019, but I plan to revisit it.
 
