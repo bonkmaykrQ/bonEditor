@@ -1,5 +1,5 @@
 # bonEditor
-#### [← Back to Homepage](https://fluffapparition.github.io/)
+#### [← Back to Homepage](https://bonkmaykrq.github.io/)
 
 ![](https://files.gamebanana.com/bitpit/bedit-newlogo-soontm.png)
 
