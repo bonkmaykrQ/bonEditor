@@ -16,5 +16,8 @@ I have since switched to Ubuntu and Arch Linux as my main choices for operating 
 Anyway, no, this program is not functional. It starts and compiles last time I checked, but I got stuck mid development because the SimpleJSON library didn't have any way to grab names of objects. You can stitch it together to make it work, though. That's on you. Good luck lol.
 
 ## Videos from mid-development
+These are videos from me working on Robotic Rogue, the work shown here does not at all represent my final vision for the project and is very primitive.  
+  
+  
 {% include 001.htm}
 {% include 002.htm}
