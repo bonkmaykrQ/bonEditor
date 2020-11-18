@@ -19,5 +19,5 @@ Anyway, no, this program is not functional. It starts and compiles last time I c
 These are videos from me working on Robotic Rogue, the work shown here does not at all represent my final vision for the project and is very primitive.  
   
   
-{% include 001.htm}
-{% include 002.htm}
+{% include 001.htm %}
+{% include 002.htm %}
